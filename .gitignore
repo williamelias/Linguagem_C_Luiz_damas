@@ -1,1 +1,5 @@
+#general
+.vscode/
+
+#c
 *.out
